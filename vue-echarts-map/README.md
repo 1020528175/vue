@@ -28,4 +28,4 @@ static下的echarts-map-data-master里面是所有的省份地图和城市地图
 有json格式的和js格式的，这个示例只做了json格式的。
 
 npm install --save echarts
-安装的echarts插件在node_modules/echarts/map 里面只包含了省份的地图数据
+安装的echarts插件在node_modules/echarts/map 里面只包含了省份的地图数据。
